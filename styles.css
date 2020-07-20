@@ -1,0 +1,32 @@
+#header-nav { 
+  
+  border-radius:0;
+  border: 0;
+}
+
+#nav-list{
+  margin-top: 10px;
+}
+
+#nav-list a{
+  color: #99bbff;
+  text-align: center
+}
+
+#nav-list a:hover{
+  color: Blue;
+}
+#header{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.card-header{
+  text-align: center; 
+}
+
+.card{
+  background-color: #99bbff;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
